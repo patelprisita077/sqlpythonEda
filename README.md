@@ -1,1 +1,2 @@
 # sqlpythonEda
+The Crime Data Analysis project leverages Python alongside the MySQL  to delve into a comprehensive examination of crime data stored within a MySQL database. This project aims to provide valuable insights into various facets of crime occurrences, including  spatial distributions, victim demographics, and status analyses. The dataset encompasses critical information such as DR NO, Date Reported, Date Occurred, Area Name, Crime Code, Victim Age, Victim Sex, Premises Description, and more, enabling a thorough exploration of crime dynamics.
